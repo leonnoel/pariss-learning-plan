@@ -25,7 +25,6 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 - 📼 Supplemental Videos To Watch
 - 💻 Practice Problems
 - 👩🏽‍💻 A project that you will submit via Github to receive feedback
-- 🚌 Lecture on most Wednesdays @ 6pm
 
 
 ## Weekly Plans
@@ -127,7 +126,6 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 
 ## Week03
 *Web Accessibility*
-*LECTURE Wednesday @ 6pm*
 
 | Day 01    | Material     | Why   |
 | ---------|:-------------:| :-----:|
